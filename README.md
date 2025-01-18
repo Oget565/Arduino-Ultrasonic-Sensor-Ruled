@@ -1,4 +1,4 @@
-# Arduino-Ultrasonic-Sensor-Ruled
+# Arduino-Ultrasonic-Sensor-Ruler
 
 Status: NOT READY
 
