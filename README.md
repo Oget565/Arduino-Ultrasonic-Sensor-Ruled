@@ -1,2 +1,5 @@
 # Arduino-Ultrasonic-Sensor-Ruled
-A ruler that uses ultrasonic sensor to display distance
+
+Status: NOT READY
+
+A ruler that uses an ultrasonic sensor to display the distance
